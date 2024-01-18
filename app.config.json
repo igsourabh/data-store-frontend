@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "name": "epaper-hamdard",
+            "name": "data-store-frontend",
             "script": "npx",
             "interpreter": "none",
             "args": "serve -s dist -p 3000"
